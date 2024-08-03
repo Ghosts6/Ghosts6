@@ -1,3 +1,5 @@
+[intro.webm](https://github.com/user-attachments/assets/22e71e31-f35c-4ecf-9d31-084c8360c3bd)
+
 # 💫 About Me:
 Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science with a keen interest in web development. I made the decision to specialize as a backend developer due to my fascination with building robust and scalable web applications.<br><br>My curiosity extends beyond software development; I have a genuine enthusiasm for network infrastructure and IT systems. I've had the opportunity to gain practical experience working with IT teams, where I've learned to troubleshoot, manage networks, and handle various technical challenges.<br><br>Throughout my journey, I've actively engaged in projects that align with my interests. This exposure has equipped me with knowledge and hands-on experience in a range of software tools, enabling me to adapt and innovate within the ever-evolving landscape of technology.<br><br>I'm excited about the prospect of continuous learning and growth in the world of software development and IT, seeking opportunities to expand my skills and contribute to impactful projects.<br><br>Feel free to connect with me! 🌐
 
