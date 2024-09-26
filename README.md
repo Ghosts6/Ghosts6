@@ -21,7 +21,7 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://github.com/Ghosts6/Ghosts6.github.io/tree/main/static/icon/django_rest.png" height="30" alt="drf"  />
+  <img src="https://raw.githubusercontent.com/Ghosts6/Ghosts6.github.io/main/static/icon/django_rest.png" height="30" alt="drf" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
