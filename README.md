@@ -1,7 +1,30 @@
 ![intro3](https://github.com/user-attachments/assets/627bdb51-1fa3-48d7-9dd6-1993b8d715c3)
 
 # 💫 About Me:
-Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science with a keen interest in web development. I made the decision to specialize as a backend developer due to my fascination with building robust and scalable web applications.<br><br>My curiosity extends beyond software development; I have a genuine enthusiasm for network infrastructure and IT systems. I've had the opportunity to gain practical experience working with IT teams, where I've learned to troubleshoot, manage networks, and handle various technical challenges.<br><br>Throughout my journey, I've actively engaged in projects that align with my interests. This exposure has equipped me with knowledge and hands-on experience in a range of software tools, enabling me to adapt and innovate within the ever-evolving landscape of technology.<br><br>I'm excited about the prospect of continuous learning and growth in the world of software development and IT, seeking opportunities to expand my skills and contribute to impactful projects.<br><br>Feel free to connect with me! 🌐
+
+## 💼 **Backend Developer**  
+**Kiarash Bashokian**  
+Passionate Backend Developer with experience in designing and implementing robust backend systems using **Monolithic** and **Hybrid Architectures**. Adept at building both **MPA + SSR** and **SPA + SSR** applications, with a focus on scalability, performance, and creating user-centric solutions.
+
+### 🔧 **Key Skills & Technologies**  
+- **Programming Languages**: Python, JavaScript, C, C++, Bash 
+- **Frameworks**: Django, Django Rest Framework (DRF), Restfull. FastAPI, Flask 
+- **Databases**: SQL (PostgreSQL, MySQL, Etc), NoSQL (MongoDB, Redis)  
+- **Frontend**: HTML, Tailwind CSS, CSS  
+- **Unit Testing**: pytest, Postman  
+- **Architectures**: Monolithic, Hybrid  
+- **Development Practices**: CI/CD, Security Best Practices, Performance Optimization  
+- **Tools**: Docker, Git, GitHub Actions
+
+### 🚀 **Experience & Focus Areas**  
+- **Backend Systems Design**: Expertise in building scalable, secure, and efficient backend solutions.
+- **Web Development**: Focused on developing high-performance web applications that deliver seamless user experiences.
+- **Problem-Solving**: Strong troubleshooting and problem-solving abilities, ensuring the delivery of optimal solutions.
+- **Continuous Learning**: Continuously enhancing technical skills and exploring new technologies to improve backend development practices.
+
+### 🌐 **Connect**  
+Explore my open-source contributions on my [GitHub profile](https://github.com/Ghosts6), or visit my [personal website](https://www.kiarashbashokian.com) to learn more about my work and current projects. I am open to exciting collaborations and new learning opportunities.
+
 
 ###
 
@@ -17,6 +40,8 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
 ###
 
 <div align="left">
+  <!-- Backend Development -->
+  <h3>Backend Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
@@ -27,8 +52,9 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
+
+  <!-- Databases -->
+  <h3>Databases</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -39,15 +65,24 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="TailWind logo" />
+
+  <!-- Other Tools & Technologies -->
+  <h3>Tools & Technologies</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -58,8 +93,6 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="TailWind logo" />
 </div>
 
 ###
@@ -93,6 +126,18 @@ Hey there! 👋 I'm Kiarash, a passionate 19-year-old studying Computer Science 
     <img src="https://img.shields.io/static/v1?message=Personal Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
+
+###
+
+###
+
+## 📬 **Contact Me**  
+You can reach me via:
+
+- **GitHub**: [github.com/Ghosts6](https://github.com/Ghosts6) – Explore my projects.
+- **Website**: [kiarashbashokian.com](https://www.kiarashbashokian.com) – My personal portfolio.
+- **LinkedIn**: [linkedin.com/in/kiarashbashokian](https://linkedin.com/in/kiarashbashokian)
+- **Email**: [kiarash@kiarashbashokian.com](mailto:kiarash@kiarashbashokian.com)
 
 ###
 
