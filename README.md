@@ -1,7 +1,5 @@
 ![intro3](https://github.com/user-attachments/assets/627bdb51-1fa3-48d7-9dd6-1993b8d715c3)
 
-# 💫 About Me:
-
 ## 💼 **Backend Developer**  
 **Kiarash Bashokian**  
 Passionate Backend Developer with experience in designing and implementing robust backend systems using **Monolithic** and **Hybrid Architectures**. Adept at building both **MPA + SSR** and **SPA + SSR** applications, with a focus on scalability, performance, and creating user-centric solutions.
