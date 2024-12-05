@@ -33,7 +33,7 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA&usqp=CAU"  />
+<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA&usqp=CAU"  />
 
 ###
 
