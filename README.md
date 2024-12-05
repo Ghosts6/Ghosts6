@@ -96,6 +96,7 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo" />
   </section>
 </div>
+
 ###
 
 ## 📱 **Social**
