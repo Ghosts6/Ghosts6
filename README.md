@@ -112,7 +112,6 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
       <img width="12" />
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F378769%2Fwebkit&psig=AOvVaw3_dj-jJQdVYt2lgDYvUu3E&ust=1751126812702000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCD-O_9kY4DFQAAAAAdAAAAABAE" height="30" alt="webkit logo" />
   </section>
   
   <!-- Tools & Technologies Section -->
