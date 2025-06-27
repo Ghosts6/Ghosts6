@@ -2,36 +2,61 @@
 
 ## 💼 **Backend Developer**  
 **Kiarash Bashokian**  
-Passionate Backend Developer with experience in designing and implementing robust backend systems using **Monolithic** and **Hybrid Architectures**. Adept at building both **MPA + SSR** and **SPA + SSR** applications, with a focus on scalability, performance, and creating user-centric solutions.
+Passionate Backend Developer with experience in designing and implementing robust backend systems using **Monolithic**, **Hybrid**, and modern **Microservices Architectures**. Adept at building both **MPA + SSR** and **SPA + API** solutions, with a focus on scalability, security, and performance.
 
 ### 🔧 **Key Skills & Technologies**  
-- **Programming Languages**: Python, JavaScript, C, C++, Bash 
-- **Frameworks**: Django, Django Rest Framework (DRF), Restfull. FastAPI, Flask 
-- **Databases**: SQL (PostgreSQL, MySQL, Etc), NoSQL (MongoDB, Redis)  
-- **Frontend**: HTML, Tailwind CSS, CSS  
-- **Unit Testing**: pytest, Postman  
-- **Architectures**: Monolithic, Hybrid  
-- **Development Practices**: CI/CD, Security Best Practices, Performance Optimization  
-- **Tools**: Docker, Git, GitHub Actions
+- **Programming Languages**: Python, Java, JavaScript, C, C++, Bash, Shell Script, PowerShell
+- **Frameworks**: Django, Django REST Framework (DRF), FastAPI, Flask, 
+rest, Celery, Qt
+- **Databases**: PostgreSQL, MySQL, SQLite, Microsoft SQL Server, Oracle Database, MongoDB, Redis, Memcached
+- **APIs & Testing**: REST APIs, Postman, pytest, unittest
+- **DevOps & Cloud**: Docker, NGINX, Apache, Git, GitHub Actions, Linux (Ubuntu, Arch), cPanel, Mail Servers
+- **Infrastructure & Virtualization**: VMware, VirtualBox, Linux Server Administration, Network Services
+- **Frontend (for backend integration)**: HTML5, CSS3, Tailwind CSS, React.js, WebKit
+- **Other**: Django ORM, Shell Scripting, Linux Networking, CCNA, Network+
+
+---
 
 ### 🚀 **Experience & Focus Areas**  
-- **Backend Systems Design**: Expertise in building scalable, secure, and efficient backend solutions.
-- **Web Development**: Focused on developing high-performance web applications that deliver seamless user experiences.
-- **Problem-Solving**: Strong troubleshooting and problem-solving abilities, ensuring the delivery of optimal solutions.
-- **Continuous Learning**: Continuously enhancing technical skills and exploring new technologies to improve backend development practices.
+- **Backend Systems Design**: Building scalable, secure, and efficient backend solutions using both monolithic and modern microservices patterns.
+- **API-First Development**: Expertise in REST API design, documentation (OpenAPI/Swagger), and integration.
+- **Database Engineering**: Advanced SQL/NoSQL skills, optimization, and high-availability strategies.
+- **DevOps & Automation**: CI/CD with Docker, GitHub Actions; infrastructure automation; experience with cloud deployment.
+- **Asynchronous Programming**: Using Celery, FastAPI, and Redis for distributed and async tasks.
+- **Security & Performance**: Secure authentication (OAuth2, JWT), API security, and performance optimization.
+- **Continuous Learning**: Always exploring new backend technologies and industry best practices.
+
+---
+
+### 🌟 **Modern Backend Highlights**
+- Microservices with Django, FastAPI, Docker
+- Asynchronous workflows (Celery, Redis)
+- Database performance tuning & caching strategies
+- Secure, scalable API design
+- CI/CD automation & cloud deployment
+- Linux server/network administration
+
+---
+
+### 📜 **Professional Experience**
+- Web Developer
+- Extensive Linux Server & Network Services experience
+- Professional roles at York University and other organizations
+
+---
 
 ### 🌐 **Connect**  
-Explore my open-source contributions on my [GitHub profile](https://github.com/Ghosts6), or visit my [personal website](https://www.kiarashbashokian.com) to learn more about my work and current projects. I am open to exciting collaborations and new learning opportunities.
+Explore my open-source contributions on my [GitHub profile](https://github.com/Ghosts6), or visit my [personal website](https://www.kiarashbashokian.com) to learn more about my work and current projects.  
+For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyResume.7be94c2e184c.pdf)
 
-
-###
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ghosts6&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###
+---
 
 <div style="display: flex; align-items: flex-start;">
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA&usqp=CAU" alt="Profile Image" style="margin-right: 20px; border-radius: 8px;" />
@@ -41,6 +66,8 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <h3>Backend Development</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
       <img width="12" />
       <img src="https://raw.githubusercontent.com/Ghosts6/Ghosts6.github.io/main/static/icon/django_rest.png" height="30" alt="drf" />
@@ -48,6 +75,8 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="30" alt="celery logo" />
   </section>
         
   <!-- Databases Section -->
@@ -62,11 +91,17 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/memcached/memcached-original.svg" height="30" alt="memcached logo" />
   </section>
   
    <!-- Frontend Development Section -->
   <section style="margin-bottom: 20px;">
-      <h3>Frontend Development</h3>
+      <h3>Frontend (Integration)</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -74,6 +109,10 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webkit/webkit-original.svg" height="30" alt="webkit logo" />
   </section>
   
   <!-- Tools & Technologies Section -->
@@ -87,17 +126,21 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="30" alt="vmware logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
   </section>
 </div>
 
-###
+---
 
 ## 📱 **Social**
 
@@ -122,9 +165,7 @@ Explore my open-source contributions on my [GitHub profile](https://github.com/G
   </a>
 </div>
 
-###
-
-###
+---
 
 ## 📬 **Contact Me**  
 You can reach me via:
@@ -134,9 +175,7 @@ You can reach me via:
 - **LinkedIn**: [linkedin.com/in/kiarashbashokian](https://linkedin.com/in/kiarashbashokian)
 - **Email**: [kiarash@kiarashbashokian.com](mailto:kiarash@kiarashbashokian.com)
 
-###
-
-<br clear="both">
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -145,10 +184,6 @@ You can reach me via:
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-###
-
-
 
 ---
 
