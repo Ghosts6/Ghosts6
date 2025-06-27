@@ -76,7 +76,7 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="30" alt="celery logo" />
+      <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" height="30" alt="celery logo" />
   </section>
         
   <!-- Databases Section -->
@@ -96,7 +96,7 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/memcached/memcached-original.svg" height="30" alt="memcached logo" />
+      <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" height="30" alt="memcached logo" />
   </section>
   
    <!-- Frontend Development Section -->
@@ -112,7 +112,7 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webkit/webkit-original.svg" height="30" alt="webkit logo" />
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F378769%2Fwebkit&psig=AOvVaw3_dj-jJQdVYt2lgDYvUu3E&ust=1751126812702000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCD-O_9kY4DFQAAAAAdAAAAABAE" height="30" alt="webkit logo" />
   </section>
   
   <!-- Tools & Technologies Section -->
@@ -134,7 +134,7 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="30" alt="vmware logo" />
+      <img src="https://img.icons8.com/?size=100&id=36981&format=png&color=000000" height="30" alt="vmware logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
   </section>
