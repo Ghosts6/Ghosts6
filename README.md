@@ -57,71 +57,62 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<div style="display: flex; flex-direction: column; gap: 20px; font-family: sans-serif;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <!-- Profile + Sections Layout -->
-  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-    <img src=".assets/images_q_tbn_ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA_usqp_CAU.png" alt="Profile Image" style="height: 150px; border-radius: 8px; flex-shrink: 0;" />
-
-    <div style="display: flex; flex-direction: column; gap: 20px;">
-
-      <!-- Section Template -->
-      <section>
-        <h3>Backend Development</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src=".assets/python-original.svg" alt="python" />
-          <img src=".assets/java-original.svg" alt="java" />
-          <img src=".assets/django-plain.svg" alt="django" />
-          <img src=".assets/django_rest.png" alt="drf" />
-          <img src=".assets/fastapi-original.svg" alt="fastapi" />
-          <img src=".assets/flask-original.svg" alt="flask" />
-          <img src=".assets/celery_512.png" alt="celery" />
-        </div>
-      </section>
-
-      <section>
-        <h3>Databases</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src=".assets/postgresql-original.svg" alt="postgresql" />
-          <img src=".assets/mysql-original.svg" alt="mysql" />
-          <img src=".assets/redis-original.svg" alt="redis" />
-          <img src=".assets/sqlite-original.svg" alt="sqlite" />
-          <img src=".assets/mongodb-original.svg" alt="mongodb" />
-          <img src=".assets/oracle-original.svg" alt="oracle" />
-          <img src=".assets/microsoftsqlserver-plain.svg" alt="mssql" />
-          <img src=".assets/memcached-icon.svg" alt="memcached" />
-        </div>
-      </section>
-
-      <section>
-        <h3>Frontend (Integration)</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src=".assets/javascript-original.svg" alt="javascript" />
-          <img src=".assets/html5-original.svg" alt="html5" />
-          <img src=".assets/css3-original.svg" alt="css3" />
-          <img src=".assets/tailwindcss-original.svg" alt="tailwind" />
-          <img src=".assets/react-original.svg" alt="react" />
-        </div>
-      </section>
-
-      <section>
-        <h3>Tools & Technologies</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          <img src=".assets/docker-original.svg" alt="docker" />
-          <img src=".assets/cplusplus-original.svg" alt="cplusplus" />
-          <img src=".assets/c-original.svg" alt="c" />
-          <img src=".assets/bash-original.svg" alt="bash" />
-          <img src=".assets/pytest-original.svg" alt="pytest" />
-          <img src=".assets/qt-original.svg" alt="qt" />
-          <img src=".assets/nginx-original.svg" alt="nginx" />
-          <img src=".assets/apache-original.svg" alt="apache" />
-          <img src=".assets/_size_100_id_36981_format_png_color_000000.png" alt="vmware" />
-          <img src=".assets/github-original.svg" alt="github" />
-        </div>
-      </section>
-
+  <section>
+    <h3>Backend Development</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src=".assets/python-original.svg" alt="python" height="30" />
+      <img src=".assets/java-original.svg" alt="java" height="30" />
+      <img src=".assets/django-plain.svg" alt="django" height="30" />
+      <img src=".assets/django_rest.png" alt="drf" height="30" />
+      <img src=".assets/fastapi-original.svg" alt="fastapi" height="30" />
+      <img src=".assets/flask-original.svg" alt="flask" height="30" />
+      <img src=".assets/celery_512.png" alt="celery" height="30" />
     </div>
-  </div>
+  </section>
+
+  <section>
+    <h3>Databases</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src=".assets/postgresql-original.svg" alt="postgresql" height="30" />
+      <img src=".assets/mysql-original.svg" alt="mysql" height="30" />
+      <img src=".assets/redis-original.svg" alt="redis" height="30" />
+      <img src=".assets/sqlite-original.svg" alt="sqlite" height="30" />
+      <img src=".assets/mongodb-original.svg" alt="mongodb" height="30" />
+      <img src=".assets/oracle-original.svg" alt="oracle" height="30" />
+      <img src=".assets/microsoftsqlserver-plain.svg" alt="mssql" height="30" />
+      <img src=".assets/memcached-icon.svg" alt="memcached" height="30" />
+    </div>
+  </section>
+
+  <section>
+    <h3>Frontend (Integration)</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src=".assets/javascript-original.svg" alt="javascript" height="30" />
+      <img src=".assets/html5-original.svg" alt="html5" height="30" />
+      <img src=".assets/css3-original.svg" alt="css3" height="30" />
+      <img src=".assets/tailwindcss-original.svg" alt="tailwind" height="30" />
+      <img src=".assets/react-original.svg" alt="react" height="30" />
+    </div>
+  </section>
+
+  <section>
+    <h3>Tools & Technologies</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src=".assets/docker-original.svg" alt="docker" height="30" />
+      <img src=".assets/cplusplus-original.svg" alt="cplusplus" height="30" />
+      <img src=".assets/c-original.svg" alt="c" height="30" />
+      <img src=".assets/bash-original.svg" alt="bash" height="30" />
+      <img src=".assets/pytest-original.svg" alt="pytest" height="30" />
+      <img src=".assets/qt-original.svg" alt="qt" height="30" />
+      <img src=".assets/nginx-original.svg" alt="nginx" height="30" />
+      <img src=".assets/apache-original.svg" alt="apache" height="30" />
+      <img src=".assets/_size_100_id_36981_format_png_color_000000.png" alt="vmware" height="30" />
+      <img src=".assets/github-original.svg" alt="github" height="30" />
+    </div>
+  </section>
+
 </div>
 
 ---
