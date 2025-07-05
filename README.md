@@ -59,83 +59,56 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA&usqp=CAU" alt="Profile Image" style="margin-right: 20px; border-radius: 8px;" />
+  <img height="150" src=".assets/images_q_tbn_ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA_usqp_CAU.png" alt="Profile Image" style="margin-right: 20px; border-radius: 8px;" />
 
   <!-- Backend Development Section -->
   <section style="margin-bottom: 20px;">
       <h3>Backend Development</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/Ghosts6/Ghosts6.github.io/main/static/icon/django_rest.png" height="30" alt="drf" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" height="30" alt="celery logo" />
+      <img src=".assets/python-original.svg" height="30" alt="python logo" />
+      <img src=".assets/java-original.svg" height="30" alt="java logo" />
+      <img src=".assets/django-plain.svg" height="30" alt="django logo" />
+      <img src=".assets/django_rest.png" height="30" alt="drf" />
+      <img src=".assets/fastapi-original.svg" height="30" alt="fastapi logo" />
+      <img src=".assets/flask-original.svg" height="30" alt="flask logo" />
+      <img src=".assets/celery_512.png" height="30" alt="celery logo" />
   </section>
         
   <!-- Databases Section -->
    <section style="margin-bottom: 20px;">
       <h3>Databases</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-      <img width="12" />
-      <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" height="30" alt="memcached logo" />
+      <img src=".assets/postgresql-original.svg" height="30" alt="postgresql logo" />
+      <img src=".assets/mysql-original.svg" height="30" alt="mysql logo" />
+      <img src=".assets/redis-original.svg" height="30" alt="redis logo" />
+      <img src=".assets/sqlite-original.svg" height="30" alt="sqlite logo" />
+      <img src=".assets/mongodb-original.svg" height="30" alt="mongodb logo" />
+      <img src=".assets/oracle-original.svg" height="30" alt="oracle logo" />
+      <img src=".assets/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
+      <img src=".assets/memcached-icon.svg" height="30" alt="memcached logo" />
   </section>
   
-   <!-- Frontend Development Section -->
+   <!-- Frontend Section -->
   <section style="margin-bottom: 20px;">
       <h3>Frontend (Integration)</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-      <img width="12" />
+      <img src=".assets/javascript-original.svg" height="30" alt="javascript logo" />
+      <img src=".assets/html5-original.svg" height="30" alt="html5 logo" />
+      <img src=".assets/css3-original.svg" height="30" alt="css3 logo" />
+      <img src=".assets/tailwindcss-original.svg" height="30" alt="Tailwind logo" />
+      <img src=".assets/react-original.svg" height="30" alt="react logo" />
   </section>
   
-  <!-- Tools & Technologies Section -->
+  <!-- Tools & Technologies -->
   <section>
       <h3>Tools & Technologies</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-      <img width="12" />
-      <img src="https://img.icons8.com/?size=100&id=36981&format=png&color=000000" height="30" alt="vmware logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+      <img src=".assets/docker-original.svg" height="30" alt="docker logo" />
+      <img src=".assets/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+      <img src=".assets/c-original.svg" height="30" alt="c logo" />
+      <img src=".assets/bash-original.svg" height="30" alt="bash logo" />
+      <img src=".assets/pytest-original.svg" height="30" alt="pytest logo" />
+      <img src=".assets/qt-original.svg" height="30" alt="qt logo" />
+      <img src=".assets/nginx-original.svg" height="30" alt="nginx logo" />
+      <img src=".assets/apache-original.svg" height="30" alt="apache logo" />
+      <img src=".assets/_size_100_id_36981_format_png_color_000000.png" height="30" alt="vmware logo" />
+      <img src=".assets/github-original.svg" height="30" alt="github logo" />
   </section>
 </div>
 
