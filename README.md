@@ -57,59 +57,71 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+<div style="display: flex; flex-direction: column; gap: 20px; font-family: sans-serif;">
 
-<div style="display: flex; align-items: flex-start;">
-  <img height="150" src=".assets/images_q_tbn_ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA_usqp_CAU.png" alt="Profile Image" style="margin-right: 20px; border-radius: 8px;" />
+  <!-- Profile + Sections Layout -->
+  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+    <img src=".assets/images_q_tbn_ANd9GcSxMrZ0pXUhKuGS899TJUShzDqEiirmlRmrxA_usqp_CAU.png" alt="Profile Image" style="height: 150px; border-radius: 8px; flex-shrink: 0;" />
 
-  <!-- Backend Development Section -->
-  <section style="margin-bottom: 20px;">
-      <h3>Backend Development</h3>
-      <img src=".assets/python-original.svg" height="30" alt="python logo" />
-      <img src=".assets/java-original.svg" height="30" alt="java logo" />
-      <img src=".assets/django-plain.svg" height="30" alt="django logo" />
-      <img src=".assets/django_rest.png" height="30" alt="drf" />
-      <img src=".assets/fastapi-original.svg" height="30" alt="fastapi logo" />
-      <img src=".assets/flask-original.svg" height="30" alt="flask logo" />
-      <img src=".assets/celery_512.png" height="30" alt="celery logo" />
-  </section>
-        
-  <!-- Databases Section -->
-   <section style="margin-bottom: 20px;">
-      <h3>Databases</h3>
-      <img src=".assets/postgresql-original.svg" height="30" alt="postgresql logo" />
-      <img src=".assets/mysql-original.svg" height="30" alt="mysql logo" />
-      <img src=".assets/redis-original.svg" height="30" alt="redis logo" />
-      <img src=".assets/sqlite-original.svg" height="30" alt="sqlite logo" />
-      <img src=".assets/mongodb-original.svg" height="30" alt="mongodb logo" />
-      <img src=".assets/oracle-original.svg" height="30" alt="oracle logo" />
-      <img src=".assets/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-      <img src=".assets/memcached-icon.svg" height="30" alt="memcached logo" />
-  </section>
-  
-   <!-- Frontend Section -->
-  <section style="margin-bottom: 20px;">
-      <h3>Frontend (Integration)</h3>
-      <img src=".assets/javascript-original.svg" height="30" alt="javascript logo" />
-      <img src=".assets/html5-original.svg" height="30" alt="html5 logo" />
-      <img src=".assets/css3-original.svg" height="30" alt="css3 logo" />
-      <img src=".assets/tailwindcss-original.svg" height="30" alt="Tailwind logo" />
-      <img src=".assets/react-original.svg" height="30" alt="react logo" />
-  </section>
-  
-  <!-- Tools & Technologies -->
-  <section>
-      <h3>Tools & Technologies</h3>
-      <img src=".assets/docker-original.svg" height="30" alt="docker logo" />
-      <img src=".assets/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-      <img src=".assets/c-original.svg" height="30" alt="c logo" />
-      <img src=".assets/bash-original.svg" height="30" alt="bash logo" />
-      <img src=".assets/pytest-original.svg" height="30" alt="pytest logo" />
-      <img src=".assets/qt-original.svg" height="30" alt="qt logo" />
-      <img src=".assets/nginx-original.svg" height="30" alt="nginx logo" />
-      <img src=".assets/apache-original.svg" height="30" alt="apache logo" />
-      <img src=".assets/_size_100_id_36981_format_png_color_000000.png" height="30" alt="vmware logo" />
-      <img src=".assets/github-original.svg" height="30" alt="github logo" />
-  </section>
+    <div style="display: flex; flex-direction: column; gap: 20px;">
+
+      <!-- Section Template -->
+      <section>
+        <h3>Backend Development</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src=".assets/python-original.svg" alt="python" />
+          <img src=".assets/java-original.svg" alt="java" />
+          <img src=".assets/django-plain.svg" alt="django" />
+          <img src=".assets/django_rest.png" alt="drf" />
+          <img src=".assets/fastapi-original.svg" alt="fastapi" />
+          <img src=".assets/flask-original.svg" alt="flask" />
+          <img src=".assets/celery_512.png" alt="celery" />
+        </div>
+      </section>
+
+      <section>
+        <h3>Databases</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src=".assets/postgresql-original.svg" alt="postgresql" />
+          <img src=".assets/mysql-original.svg" alt="mysql" />
+          <img src=".assets/redis-original.svg" alt="redis" />
+          <img src=".assets/sqlite-original.svg" alt="sqlite" />
+          <img src=".assets/mongodb-original.svg" alt="mongodb" />
+          <img src=".assets/oracle-original.svg" alt="oracle" />
+          <img src=".assets/microsoftsqlserver-plain.svg" alt="mssql" />
+          <img src=".assets/memcached-icon.svg" alt="memcached" />
+        </div>
+      </section>
+
+      <section>
+        <h3>Frontend (Integration)</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src=".assets/javascript-original.svg" alt="javascript" />
+          <img src=".assets/html5-original.svg" alt="html5" />
+          <img src=".assets/css3-original.svg" alt="css3" />
+          <img src=".assets/tailwindcss-original.svg" alt="tailwind" />
+          <img src=".assets/react-original.svg" alt="react" />
+        </div>
+      </section>
+
+      <section>
+        <h3>Tools & Technologies</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <img src=".assets/docker-original.svg" alt="docker" />
+          <img src=".assets/cplusplus-original.svg" alt="cplusplus" />
+          <img src=".assets/c-original.svg" alt="c" />
+          <img src=".assets/bash-original.svg" alt="bash" />
+          <img src=".assets/pytest-original.svg" alt="pytest" />
+          <img src=".assets/qt-original.svg" alt="qt" />
+          <img src=".assets/nginx-original.svg" alt="nginx" />
+          <img src=".assets/apache-original.svg" alt="apache" />
+          <img src=".assets/_size_100_id_36981_format_png_color_000000.png" alt="vmware" />
+          <img src=".assets/github-original.svg" alt="github" />
+        </div>
+      </section>
+
+    </div>
+  </div>
 </div>
 
 ---
