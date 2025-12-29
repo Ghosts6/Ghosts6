@@ -1,4 +1,6 @@
-![intro3](https://github.com/user-attachments/assets/13f30e0e-4c9a-40ff-acb5-bab2a8090999)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d243ca5-1de2-4f44-8e6a-f1e31ee22164" alt="Intro GIF" style="width: 90%;">
+</p>
 
 ## 💼 **Backend Developer**  
 **Kiarash Bashokian**  
@@ -52,9 +54,9 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ghosts6&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ghosts6&theme=tokyonight&hide_border=true&incde_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Ghosts6&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_bord=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
