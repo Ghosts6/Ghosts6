@@ -1,0 +1,63 @@
+name: Check Stats Images
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check and Update Stats
+        run: |
+          # Define URLs and fallbacks
+          STATS_URL="https://github-readme-stats-eight-theta.vercel.app/api?username=Ghosts6&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"
+          STATS_FALLBACK=".assets/old-stats.png"
+
+          STREAK_URL="https://streak-stats.demolab.com/?user=Ghosts6&theme=chartreuse-dark&hide_border=false"
+          STREAK_FALLBACK=".assets/old-streak.png"
+
+          LANGS_URL="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghosts6&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+          LANGS_FALLBACK=".assets/old-langs.png"
+
+          README_FILE="README.md"
+
+          # Function to update image URL
+          update_image() {
+            local live_url=$1
+            local fallback_path=$2
+
+            echo "Checking service: $live_url"
+            if ! curl --fail -s -o /dev/null "$live_url"; then
+              echo "Service is down. Switching to fallback image: $fallback_path"
+              # Use a different delimiter for sed since URLs contain '/'
+              sed -i "s|$live_url|$fallback_path|g" "$README_FILE"
+            else
+              echo "Service is up. Switching to live image: $live_url"
+              sed -i "s|$fallback_path|$live_url|g" "$README_FILE"
+            fi
+          }
+
+          # Update all three images
+          update_image "$STATS_URL" "$STATS_FALLBACK"
+          update_image "$STREAK_URL" "$STREAK_FALLBACK"
+          update_image "$LANGS_URL" "$LANGS_FALLBACK"
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: Update stats images based on service availability"
+            git push
+          fi

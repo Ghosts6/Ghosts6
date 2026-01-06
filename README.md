@@ -7,14 +7,14 @@
 Passionate Backend Developer with experience in designing and implementing robust backend systems using **Monolithic**, **Hybrid**, and modern **Microservices Architectures**. Adept at building both **MPA + SSR** and **SPA + API** solutions, with a focus on scalability, security, and performance.
 
 ### 🔧 **Key Skills & Technologies**  
-- **Programming Languages**: Python, Java, JavaScript, C, C++, Bash, Shell Script, PowerShell
+- **Programming Languages**: Python, Java, PHP, JavaScript, typeScript, C, C++, Bash, Shell Script
 - **Frameworks**: Django, Django REST Framework (DRF), FastAPI, Flask, 
 rest, Celery, Qt
 - **Databases**: PostgreSQL, MySQL, SQLite, Microsoft SQL Server, Oracle Database, MongoDB, Redis, Memcached
 - **APIs & Testing**: REST APIs, Postman, pytest, unittest
 - **DevOps & Cloud**: Docker, NGINX, Apache, Git, GitHub Actions, Linux (Ubuntu, Arch), cPanel, Mail Servers
 - **Infrastructure & Virtualization**: VMware, VirtualBox, Linux Server Administration, Network Services
-- **Frontend (for backend integration)**: HTML5, CSS3, Tailwind CSS, React.js, WebKit
+- **Frontend**: HTML5, CSS3, Tailwind CSS, React.js, WebKit, Bootstrap
 - **Other**: Django ORM, Shell Scripting, Linux Networking, CCNA, Network+
 
 ---
@@ -54,9 +54,9 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ghosts6&theme=tokyonight&hide_border=true&incde_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Ghosts6&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosts6&theme=tokyonight&hide_bord=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Ghosts6&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Ghosts6&theme=chartreuse-dark&hide_border=false)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghosts6&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -67,6 +67,7 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src=".assets/python-original.svg" alt="python" width="30" />
       <img src=".assets/java-original.svg" alt="java" width="30" />
+      <img src=".assets/PHP.svg" alt="php" width="30" />
       <img src=".assets/django-plain.svg" alt="django" width="30" />
       <img src=".assets/django_rest.png" alt="drf" width="30" />
       <img src=".assets/fastapi-original.svg" alt="fastapi" width="30" />
@@ -97,6 +98,8 @@ For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyR
       <img src=".assets/css3-original.svg" alt="css3" width="30" />
       <img src=".assets/tailwindcss-original.svg" alt="tailwind" width="30" />
       <img src=".assets/react-original.svg" alt="react" width="30" />
+      <img src=".assets/Bootstrap.svg" alt="bootstrap" width="30" />
+      <img src=".assets/TypeScript.svg" alt="typescript" width="30" />
     </div>
   </section>
 
