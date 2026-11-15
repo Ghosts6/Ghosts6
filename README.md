@@ -53,17 +53,6 @@ Passionate Backend Developer with experience in designing and implementing robus
 
 ---
 
-### 📌 **Featured Projects**
-- [**SocketCast**](https://github.com/Ghosts6/SocketCast) – Reliable-UDP media transport protocol built from scratch in C++ (selective-repeat ARQ, BBR-inspired rate control) with FastAPI, React, and Kubernetes.
-- [**KerniX**](https://github.com/Ghosts6/KerniX) – Experimental bare-metal C and Assembly kernel focused on memory management (MMU/paging) and process scheduling.
-- [**RiseUp**](https://github.com/Ghosts6/RiseUp) – AI-powered alarm and task reminder system in Java (Spring Boot API, Picocli CLI, JavaFX GUI).
-- [**system-metrics**](https://github.com/Ghosts6/system-metrics) – Cross-platform system metrics and log analytics platform (C/C++, Qt, FastAPI, PostgreSQL, Redis).
-- [**ai-platform**](https://github.com/Ghosts6/ai-platform) – Full-stack framework for building and managing task-oriented AI agents (Django, React, Celery, RAG).
-- [**weather_news**](https://github.com/Ghosts6/weather_news) – Real-time weather and news platform with a Django REST API and React/TypeScript frontend.
-- [**client_count**](https://github.com/Ghosts6/client_count) – FastAPI network monitoring tool for wireless APs and client counts via Cisco DNA Center APIs.
-
----
-
 ### 🌐 **Connect**  
 Explore my open-source contributions on my [GitHub profile](https://github.com/Ghosts6), or visit my [personal website](https://www.kiarashbashokian.com) to learn more about my work and current projects.  
 For my full CV: [My Latest Resume (PDF)](https://kiarashbashokian.com/static/MyResume.20f151b4d55d.pdf)
@@ -195,8 +184,6 @@ You can reach me via:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghosts6/Ghosts6/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ghosts6/Ghosts6/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
